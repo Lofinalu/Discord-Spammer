@@ -1,0 +1,12 @@
+{
+    "webhook_url": "",
+	"avatar_url": "",
+	"snipe_enabled": true,
+	"use_proxy" : false,
+	"threads":  1,
+    "delay": 0.5,
+    "data": {
+      "1": ["24","1238812456088895538"]
+    }
+  }
+  
